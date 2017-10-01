@@ -1,0 +1,51 @@
+body {
+	font-family: Times New Roman;
+}
+#avatar {
+	height: 200px;
+}
+#div1 {
+	color: #1c79e1;
+	font-size: 22px;
+}
+#fb {
+	height: 20px;
+}
+table {
+	width: 500px;
+	float: left;
+}
+#cel {
+	color: #a9b2c3;
+}
+#mail {
+	color: #c3cde6;
+}
+#edu, #lang, #skills, #exp {
+	color: #1560bd;
+	font-size: 16px;
+	font-weight: 700;
+	text-align: center;
+}
+#exp, #hobby {
+	margin: 0px 0px 0px 500px;
+}
+#hobby {
+	text-align: center;
+	color: #ea624a;
+	font-weight: 700;
+}
+span.bold {
+	color: #1c79e1;
+	font-weight: 700;
+}
+
+#ul1 li {
+	display: inline-block;
+}
+#ul2 li {
+	margin: 0px 0px 0px 470px;
+}
+#exp_desc, #hobby_desc {
+	margin-left: 500px;
+}
